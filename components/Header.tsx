@@ -95,10 +95,7 @@ export default function Header() {
             <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-blue-700 rounded-lg flex items-center justify-center">
               <span className="text-white font-bold text-lg">T</span>
             </div>
-            <div>
-              <div className="font-bold text-xl text-gray-900">Taliyo Technologies</div>
-              <div className="text-xs text-blue-600 font-medium">Concentrix Practice</div>
-            </div>
+            <div className="font-bold text-xl text-gray-900">Concentrix Practice</div>
           </Link>
 
           {/* Desktop Navigation */}
