@@ -15,8 +15,8 @@ export default function Footer() {
                   <span className="text-white font-bold text-lg">T</span>
                 </div>
                 <div>
-                  <div className="font-bold text-xl">Taliyo Technologies</div>
-                  <div className="text-sm text-blue-400">Concentrix Practice</div>
+                  <div className="font-bold text-xl">Concentrix Practice</div>
+                  <div className="text-sm text-blue-400">by Taliyo Technologies</div>
                 </div>
               </Link>
               <p className="text-gray-300 mb-6 max-w-md">
@@ -143,7 +143,7 @@ export default function Footer() {
         <div className="border-t border-gray-800 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-gray-400 text-sm">
-              © 2025 Made by Taliyo Technologies. All rights reserved by Taliyo Technologies.
+              © 2025 consentrix practice by Taliyo Technologies. All rights reserved.
             </div>
             <div className="flex space-x-6 text-sm">
               <Link href="/privacy" className="text-gray-400 hover:text-blue-400 transition-colors">
